@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/UECCI/Documents/GitHub/digital1/work02-captura-datos-OV7670/hdl/test_cam.xst" -ofn "C:/Users/UECCI/Documents/GitHub/digital1/work02-captura-datos-OV7670/hdl/test_cam.syr" 
